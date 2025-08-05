@@ -23,3 +23,13 @@ I'm Patric Camara Leal, Information Systems student at Federal University of San
 
 - [GitHub](https://github.com/PatricLeal)
 - [LinkedIn](https://linkedin.com/in/patric-camara-leal-4)
+  
+## 💖 Support My Open Source Work
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20me-GitHub%20Sponsors-orange?logo=github&style=for-the-badge)](https://github.com/sponsors/PatricLeal)
+
+<p align="center">
+  <a href="https://github.com/sponsors/PatricLeal" target="_blank">
+    <img src="https://github.com/sponsors/PatricLeal/card" alt="Sponsor PatricLeal" />
+  </a>
+</p>
